@@ -1,1 +1,3 @@
 New file for testing
+
+Adding more content to the newFile file
