@@ -1,3 +1,1 @@
-This is another file
-
-and now it is MODIFIED!!!!!
+This is another file with no modifications at all
