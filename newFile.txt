@@ -1,7 +1,0 @@
-New file for testing
-
-Adding more content to the newFile file
-
-The 3rd line of the new file
-
-Adding a 4th line to the file
